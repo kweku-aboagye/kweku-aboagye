@@ -3,7 +3,7 @@
 
 - 🔭 Check out [my personal website](http://kwekuaboagye.me/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Kweku007](https://github.com/Kweku007)
+- 👨‍💻 All of my projects are available at [https://github.com/kweku-aboagye](https://github.com/kweku-aboagye)
 
 - 💬 Ask me about **software engineering, I learn a lot from questions**
 
