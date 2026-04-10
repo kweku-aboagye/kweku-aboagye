@@ -17,5 +17,5 @@
 <a href="https://linkedin.com/in/knaboagye" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kweku nyadu aboagye" height="30" width="40" /></a>
 <a href="https://instagram.com/_kwekz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_kwekz" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/_kwekz" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="_kwekz" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/kweku007" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kweku007" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kweku-aboagye" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kweku-aboagye" height="30" width="40" /></a>
 </p>
