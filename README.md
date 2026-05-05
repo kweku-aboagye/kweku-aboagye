@@ -1,9 +1,9 @@
-<h1 align="center">I'm Kweku 👋</h1>
-<h3 align="center">Software developer</h3>
+<h1 align="center">Hi 👋, I'm Kweku </h1>
+<h3 align="center">Software developer with 5+ years of industry experience</h3>
 
-- 🔭 Check out [my personal website](http://kwekuaboagye.me/)
+- 🔭 Check out [my portfolio website](http://kwekuaboagye.me/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/kweku-aboagye](https://github.com/kweku-aboagye)
+- 👨‍💻 All of my open source projects are available at [https://github.com/kweku-aboagye](https://github.com/kweku-aboagye)
 
 - 📫 How to reach me **abeaboagye7@gmail.com**
 
