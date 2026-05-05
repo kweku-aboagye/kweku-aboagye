@@ -1,4 +1,4 @@
-<h1 align="center">👋, I'm Kweku</h1>
+<h1 align="center">I'm Kweku 👋</h1>
 <h3 align="center">Software developer</h3>
 
 - 🔭 Check out [my personal website](http://kwekuaboagye.me/)
