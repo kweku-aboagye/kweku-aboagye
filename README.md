@@ -1,15 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kweku</h1>
-<h3 align="center">A passionate software developer</h3>
+<h1 align="center">👋, I'm Kweku</h1>
+<h3 align="center">Software developer</h3>
 
 - 🔭 Check out [my personal website](http://kwekuaboagye.me/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/kweku-aboagye](https://github.com/kweku-aboagye)
 
-- 💬 Ask me about **software engineering, I learn a lot from questions**
-
 - 📫 How to reach me **abeaboagye7@gmail.com**
 
-- ⚡ Fun fact **Sports fanatic!**
+- ⚡ Fun fact **Soccer fanatic!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
